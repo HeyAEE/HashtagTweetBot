@@ -3,6 +3,6 @@
 */*
 !*/HashtagTweetBot/
 
-# Ignore ~/Projects/HashtagTweetBot/private/
-*/HashtagTweetBot/private/*
-
+# Ignore ~/Projects/HashtagTweetBot/private/*
+*/HashtagTweetBot/private/
+!*/HashtagTweetBot/private/*
