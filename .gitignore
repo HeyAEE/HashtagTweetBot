@@ -4,5 +4,4 @@
 !*/HashtagTweetBot/
 
 # Ignore ~/Projects/HashtagTweetBot/private/*
-!*/HashtagTweetBot/private/
 */HashtagTweetBot/private/*
